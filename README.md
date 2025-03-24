@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Java/Python
+- 💬 Ask me about ANYTHING
+- ⚡ Fun fact: I used Grok to make ArcAPI encryption, but it has a lot of problems. Whatever you input, it will print a fixed string, and Lost says: What self-deception simulator?
+### Profile
+
+- Just a high school student
+- Just a child like playing computer
+
+### Likes
+
+- Anything cute
+- Rhythm games(such as Arcaea, SOUND_VOLTEX and more...)
+
+### Dislikes
+
+- Anything unfairness
+
+### Programming language
+
+- Python
+- A bit Java
+
+### Languages
+
+- English
+- Chinese
+
+### Contact me
+For Arcaea problem: arcaea@nekonekoniko120.com
+For Things apart from Arcaea: contact@nekonekoniko120.com
+Just want to chat with me: niko@nekonekoniko120.com
+(For that I can differentiate witch you want to do)
