@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 - Python
 - A bit Java
+- Maybe C++ ? (I'm still learning
 
 ### Languages
 
