@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm NekoNekoNiko120 aka Thilierty
+### I'm NekoNekoNiko120
 <!--
 **NekoNekoNiko120/NekoNekoNiko120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
