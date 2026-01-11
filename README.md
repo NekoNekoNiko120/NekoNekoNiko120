@@ -1,5 +1,7 @@
 ## Hi there 👋
 ### I'm NekoNekoNiko120
+or you can call me nikon120. I’m a Chinese student and I’m interested in computer science. Although I’m just a high school student, I have read a lot of theses on machine learning. My main programming languages are Rust and C++, and I have a bit of Python skill. I’m here on GitHub to save some of my works and make new friends.
+
 <!--
 **NekoNekoNiko120/NekoNekoNiko120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
